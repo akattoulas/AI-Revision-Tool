@@ -1,7 +1,7 @@
 import openai
 import os
 
-openai.api_key = "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"
+openai.api_key = ""
 
 def generate_questions_answers(input_text):
     prompt = f"Generate questions and answers based on the following text:\n{input_text}\n\nQuestions:\n1. \n2. \n3. \nAnswers:\n"
