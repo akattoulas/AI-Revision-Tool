@@ -1,0 +1,5 @@
+[
+   "How to enroll for a course? To enroll for a course, simply create an account with us by clicking on ‘Signup’ link from our home page. After signing up, you can search from our catalog of over 500 courses. To enroll in a course, click on ‘Enroll’ button on the course page.",
+   "What is the refund policy? Content: We offer 14-day refund policy. If you are not satisfied with any of our course, just send us an e-mail and we will refund 100% of your course fee. No questions asked.",
+   "What payment methods are supported? We support all types of debit cards, credit cards and bank transfers. You can also pay in installments for courses having fee more than $49."
+]
